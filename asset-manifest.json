@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/newprofile/static/css/main.4a6f5c94.css",
-    "main.js": "/newprofile/static/js/main.abe39182.js",
-    "static/media/hotel.png": "/newprofile/static/media/hotel.6599737ff8fa2407ec87.png",
-    "static/media/aestheticwed.png": "/newprofile/static/media/aestheticwed.a69a8a7f2ba5e9a8499d.png",
-    "static/media/botsync.png": "/newprofile/static/media/botsync.4f6d774674d620880c48.png",
-    "static/media/basofa.png": "/newprofile/static/media/basofa.f33325345bd8a820ebb1.png",
-    "static/media/ondway.png": "/newprofile/static/media/ondway.d4001d4617110cf9cf72.png",
-    "index.html": "/newprofile/index.html",
-    "main.4a6f5c94.css.map": "/newprofile/static/css/main.4a6f5c94.css.map",
-    "main.abe39182.js.map": "/newprofile/static/js/main.abe39182.js.map"
+    "main.css": "/portfolio/static/css/main.e777ed25.css",
+    "main.js": "/portfolio/static/js/main.10b474bc.js",
+    "static/media/hotel.png": "/portfolio/static/media/hotel.6599737ff8fa2407ec87.png",
+    "static/media/aestheticwed.png": "/portfolio/static/media/aestheticwed.a69a8a7f2ba5e9a8499d.png",
+    "static/media/botsync.png": "/portfolio/static/media/botsync.4f6d774674d620880c48.png",
+    "static/media/basofa.png": "/portfolio/static/media/basofa.f33325345bd8a820ebb1.png",
+    "static/media/ondway.png": "/portfolio/static/media/ondway.d4001d4617110cf9cf72.png",
+    "index.html": "/portfolio/index.html",
+    "main.e777ed25.css.map": "/portfolio/static/css/main.e777ed25.css.map",
+    "main.10b474bc.js.map": "/portfolio/static/js/main.10b474bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a6f5c94.css",
-    "static/js/main.abe39182.js"
+    "static/css/main.e777ed25.css",
+    "static/js/main.10b474bc.js"
   ]
 }
